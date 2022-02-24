@@ -1,0 +1,4 @@
+#!/bin/bash
+#daily interest of £1
+#overdraft to be activited automatically when account balance equals zero
+#overdraft amount subject to individual circumstances
